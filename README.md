@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**mdmahdi77/mdmahdi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a frontend web developer👋
 
 Here are some ideas to get you started:
 
